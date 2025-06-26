@@ -1,6 +1,5 @@
 # Chess.AI - Advanced Chess Learning Platform | Продвинутая платформа для обучения шахматам
 
-![Chess.AI Logo](frontend/src/logo.svg)
 
 ## Overview | Обзор
 
@@ -164,7 +163,6 @@ The application will be available at `http://localhost:3000`
 **Русский:**  
 1. Клонировать репозиторий:
 ```bash
-git clone [repository-url]
 cd Chess.AI/4
 ```
 
